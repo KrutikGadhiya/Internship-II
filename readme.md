@@ -2,7 +2,7 @@
 
 ---
 
-**I did my 7^th^ Sem Internship at [Devsquirrel Technologies Pvt. Ltd.](http://certopus.com), Certopus was the project on which i worked the most during the internship period**
+**I did my 7<sup>th<sup> Sem Internship at [Devsquirrel Technologies Pvt. Ltd.](http://certopus.com), Certopus was the project on which i worked the most during the internship period**
 
 ---
 
@@ -30,28 +30,28 @@
 
 ## My Work
 
-### 1^st^ month
+### 1<sup>st</sup> month
 
 During 1st month initially the task which were given to me includes, understanding the project as well as updating and modifying the project according to requirement.
 
-**1^st^ Week:** Understanding the Backend Project **_(Backend)_**
-**2^nd^ Week:** Optimizing the APIs **_(Backend)_**
-**3^rd^ Week:** Adding more API endpoint and Fixing Bugs **_(Backend)_**
-**4^nd^ Week:** Understanding the Frontend Project and Optimizing the Site load time **_(Frontend)_**
+**1<sup>st</sup> Week:** Understanding the Backend Project **_(Backend)_** <br/>
+**2<sup>nd</sup> Week:** Optimizing the APIs **_(Backend)_** <br/>
+**3<sup>rd</sup> Week:** Adding more API endpoint and Fixing Bugs **_(Backend)_** <br/>
+**4<sup>nd</sup> Week:** Understanding the Frontend Project and Optimizing the Site load time **_(Frontend)_** <br/>
 
-### 2^nd^ month
+### 2<sup>nd</sup> month
 
-**1^st^ Week:** Updating Certificate Page in NextJS site **_(Frontend)_**
-**2^nd^ Week:** Adding WhiteLabelling Feature **_(Backend)_**
-**3^rd^ Week:** SMTP configuration for the project, Analytics APIs **_(Backend)_**
-**4^nd^ Week:** Learning about Blockchain and NFT, minting NFT to Polygon blockchain, Finding a Cheaper way to Mint NFT to Blockchain **_(Backend)_**
+**1<sup>st</sup> Week:** Updating Certificate Page in NextJS site **_(Frontend)_** <br/>
+**2<sup>nd</sup> Week:** Adding WhiteLabelling Feature **_(Backend)_** <br/>
+**3<sup>rd</sup> Week:** SMTP configuration for the project, Analytics APIs **_(Backend)_** <br/>
+**4<sup>nd</sup> Week:** Learning about Blockchain and NFT, minting NFT to Polygon blockchain, Finding a Cheaper way to Mint NFT to Blockchain **_(Backend)_** <br/>
 
-### 3^rd^ month
+### 3<sup>rd<sup> month
 
-**1^st^ Week:** Wallet APIs **_(Backend)_**
-**2^nd^ Week:** Integrating Stripe checkout for subscription based payment **_(Backend)_**
-**3^rd^ Week:** Implementing Stripe Webhook for getting Events on the backend **_(Backend)_**
-**4^nd^ Week:** Further optimizing NextJS site by removing unused styles and components **_(Frontend)_**
+**1<sup>st</sup> Week:** Wallet APIs **_(Backend)_** <br/>
+**2<sup>nd</sup> Week:** Integrating Stripe checkout for subscription based payment **_(Backend)_** <br/>
+**3<sup>rd</sup> Week:** Implementing Stripe Webhook for getting Events on the backend **_(Backend)_** <br/>
+**4<sup>nd</sup> Week:** Further optimizing NextJS site by removing unused styles and components **_(Frontend)_** <br/>
 
 ---
 
