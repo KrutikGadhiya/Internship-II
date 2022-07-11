@@ -32,7 +32,7 @@
 
 ### 1^st^ month
 
-During 1st month initially the task which were given to includes understanding the project as well as updating and modifying the project according to requirement.
+During 1st month initially the task which were given to me includes, understanding the project as well as updating and modifying the project according to requirement.
 
 **1^st^ Week:** Understanding the Backend Project **_(Backend)_**
 **2^nd^ Week:** Optimizing the APIs **_(Backend)_**
