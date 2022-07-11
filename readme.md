@@ -2,7 +2,7 @@
 
 ---
 
-**I did my 7<sup>th<sup> Sem Internship at [Devsquirrel Technologies Pvt. Ltd.](http://certopus.com), Certopus was the project on which i worked the most during the internship period**
+**I did my 7<sup>th</sup> Sem Internship at [Devsquirrel Technologies Pvt. Ltd.](http://certopus.com), Certopus was the project on which i worked the most during the internship period**
 
 ---
 
@@ -46,7 +46,7 @@ During 1st month initially the task which were given to me includes, understandi
 **3<sup>rd</sup> Week:** SMTP configuration for the project, Analytics APIs **_(Backend)_** <br/>
 **4<sup>nd</sup> Week:** Learning about Blockchain and NFT, minting NFT to Polygon blockchain, Finding a Cheaper way to Mint NFT to Blockchain **_(Backend)_** <br/>
 
-### 3<sup>rd<sup> month
+### 3<sup>rd</sup> month
 
 **1<sup>st</sup> Week:** Wallet APIs **_(Backend)_** <br/>
 **2<sup>nd</sup> Week:** Integrating Stripe checkout for subscription based payment **_(Backend)_** <br/>
